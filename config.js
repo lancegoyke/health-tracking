@@ -26,6 +26,8 @@ const config = {
     forcedNavOrder: [
       // '/introduction', // add trailing slash if enabled above
       // '/codeblock',
+      '/my-case',
+      '/herbal-antimicrobials',
     ],
     collapsedNav: [
       // '/herbal-antimicrobials', // add trailing slash if enabled above
