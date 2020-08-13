@@ -1,5 +1,7 @@
 import { injectGlobal } from 'emotion';
 
+import { COLORS } from './Constants';
+
 export const baseStyles = injectGlobal`
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
   @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap');
@@ -76,7 +78,9 @@ export const baseStyles = injectGlobal`
     border-radius: 1px;
     margin: 0 auto;
     margin-top: 4px;
-    background-color: #001934;
+    // background-color: #001934;
+    // background-color: #1d1d1d;
+    background-color: ${COLORS.dark};
   }
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
@@ -261,7 +265,9 @@ export const baseStyles = injectGlobal`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    // background-color: #001934;
+    // background-color: #1d1d1d;
+    background-color: ${COLORS.dark};
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -377,8 +383,11 @@ export const baseStyles = injectGlobal`
     padding: 18px 16px;
     font-family: 'Poppins';
     font-size: 18px;
-    font-weight: 600;
-    color: #001934;
+    // font-weight: 600;
+    font-weight: 100;
+    // color: #001934;
+    // color: #1d1d1d;
+    color: ${COLORS.dark};
     display: flex;
     align-items: center;
   }
@@ -388,7 +397,9 @@ export const baseStyles = injectGlobal`
   }
 
   .sidebarTitle a {
-    color: #001934;
+    // color: #001934;
+    // color: #1d1d1d;
+    color: ${COLORS.dark};
   }
 
   .greenCircle {
@@ -738,13 +749,17 @@ export const baseStyles = injectGlobal`
 
   @media (max-width: 767px) {
     .formElement svg path {
-      fill: #001934;
+      // fill: #001934;
+      // fill: #1d1d1d;
+      fill: ${COLORS.dark};
     }
     .visibleMobileView {
       display: block !important;
     }
     .searchInput {
-      color: #001934;
+      // color: #001934;
+      // color: #1d1d1d;
+      color: ${COLORS.dark};
     }
     .socialWrapper {
       position: absolute;

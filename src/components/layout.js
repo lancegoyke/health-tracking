@@ -7,6 +7,7 @@ import mdxComponents from './mdxComponents';
 import Sidebar from './sidebar';
 import RightSidebar from './rightSidebar';
 import config from '../../config.js';
+import { SIZES } from './styles/Constants';
 
 const Wrapper = styled('div')`
   display: flex;
@@ -38,9 +39,9 @@ const Content = styled('main')`
   display: flex;
   flex-grow: 1;
   margin: 0px 88px;
-  max-width: 60ch;
+  max-width: ${SIZES.contentWidth};
   padding-top: 3rem;
-  background: ${({ theme }) => theme.colors.background};
+  // background: ${({ theme }) => theme.colors.background};
 
   table tr {
     background: ${({ theme }) => theme.colors.background};

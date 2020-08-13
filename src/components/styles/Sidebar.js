@@ -12,7 +12,11 @@ export const Sidebar = styled('aside')`
   position: sticky;
   top: 0;
 
-  background: ${props => props.theme.colors.background};
+  // Removed this property so that background was only
+  // set with <Content /> background.
+  // Lance Goyke, 08-13-2020
+  //
+  // background: ${props => props.theme.colors.background};
 
   .rightSideTitle {
     font-size: 10px;
