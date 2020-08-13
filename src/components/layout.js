@@ -29,10 +29,16 @@ const Wrapper = styled('div')`
   }
 `;
 
+/*
+I added max-width of 60ch to prevent the reading area
+from growing too wide for my fragile eyes.
+-Lance Goyke, 08-12-2020
+*/
 const Content = styled('main')`
   display: flex;
   flex-grow: 1;
   margin: 0px 88px;
+  max-width: 60ch;
   padding-top: 3rem;
   background: ${({ theme }) => theme.colors.background};
 

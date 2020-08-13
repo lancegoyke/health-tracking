@@ -8,7 +8,7 @@ const config = {
   header: {
     logo: '',
     logoLink: 'https://health.lancegoyke.com/',
-    title: "Lance's Health Tracking",
+    title: 'Health Tracking',
     githubUrl: 'https://github.com/lancegoyke/health-tracking',
     helpUrl: '',
     tweetText: '',
