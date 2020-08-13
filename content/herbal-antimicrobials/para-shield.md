@@ -15,7 +15,7 @@ metaDescription: "Overview of the ingredients in Para-Shield by DaVinci Labs and
 
 ## Ingredients
 
-![Nutrition label for Para-Shield by DaVinci Labs](../assets/images/parashield_davinci_label.jpg "Nutrition label for Para-Shield by DaVinci Labs)
+![Nutrition label for Para-Shield by DaVinci Labs](../assets/images/parashield_davinci_label.jpg "Nutrition label for Para-Shield by DaVinci Labs")
 
 Note that Walsh's recommendation is half of what the label suggests.
 
