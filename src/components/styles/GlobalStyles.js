@@ -227,8 +227,12 @@ export const baseStyles = injectGlobal`
     line-height: 1.5;
     font-weight: 300;
     color: #fff !important;
-    margin-top: 16px;
-    text-transform: uppercase;
+    // margin-top: 16px;
+    // text-transform: uppercase;
+  }
+  .headerTitle::before {
+    content: '—';
+    margin-right: 4px;
   }
   .headerTitle a {
     color: #fff;
