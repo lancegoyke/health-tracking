@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: '',
+    logo: '', // I set this elsewhere
     logoLink: 'https://health.lancegoyke.com/',
     title: 'Health Tracking',
     githubUrl: 'https://github.com/lancegoyke/health-tracking',
@@ -27,6 +27,7 @@ const config = {
       // '/introduction', // add trailing slash if enabled above
       // '/codeblock',
       '/my-case',
+      '/diary',
       '/herbal-antimicrobials',
     ],
     collapsedNav: [
