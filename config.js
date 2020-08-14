@@ -2,7 +2,7 @@ const config = {
   gatsby: {
     pathPrefix: '/',
     siteUrl: 'https://health.lancegoyke.com',
-    gaTrackingId: null,
+    gaTrackingId: 'UA-6325128-6',
     trailingSlash: false,
   },
   header: {
