@@ -114,17 +114,40 @@ It seems to assist in immune function for a host of infections... this poor pati
 
 ### German Chamomile (Flower), 100 mg
 
-[PubMed search results]()
+[PubMed search results](https://pubmed.ncbi.nlm.nih.gov/?term=chamomile+candida)
+
+"[T]he chamomile capsule [250 mg, 3 times a day] decreases the amount of menstrual bleeding and can be used as a therapeutic method."
+- Mollabashi, E. N., Ziaie, T., Bekhradi, R., & Khalesi, Z. B. (2020). Do Chamomile effect on duration, amount of bleeding, and interval of menstrual cycles?. Journal of pharmacopuncture, 23(1), 25–29. [https://doi.org/10.3831/KPI.2020.23.004](https://doi.org/10.3831/KPI.2020.23.004)
+
+In 2006: "Chamomile has moderate antioxidant and antimicrobial activities, and significant antiplatelet activity in vitro. Animal model studies indicate potent antiinflammatory action, some antimutagenic and cholesterol-lowering activities, as well as antispasmotic and anxiolytic effects. However, human studies are limited, and clinical trials examining the purported sedative properties of chamomile tea are absent."
+- McKay, D. L., & Blumberg, J. B. (2006). A review of the bioactivity and potential health benefits of chamomile tea (Matricaria recutita L.). Phytotherapy research : PTR, 20(7), 519–530. [https://doi.org/10.1002/ptr.1900](https://doi.org/10.1002/ptr.1900)
+
+"[Pickering nanoemulsion of chamomile essential oil] showed significantly higher antibacterial and antifungal activities than [two other preparations]." This article is comparing different preparations, so not sure if the actual antimicrobial effects are significant.
+- Das, S., Horváth, B., Šafranko, S., Jokić, S., Széchenyi, A., & Kőszegi, T. (2019). Antimicrobial Activity of Chamomile Essential Oil: Effect of Different Formulations. Molecules (Basel, Switzerland), 24(23), 4321. [https://doi.org/10.3390/molecules24234321](https://doi.org/10.3390/molecules24234321)
 
 ### Ginger Root, 100 mg
 
-[PubMed search results]()
+[PubMed search results](https://pubmed.ncbi.nlm.nih.gov/?term=Ginger+root+candida&sort=date)
+
+The research here is terrible. I'm not finding much.
+
+"[T]he growth of those bacteria, cultured in the media containing the crude juices of fresh green tea leaves and common ginger root, was poor and these bacteria did not proliferate."
+- Daiji MANO (1963). Studies on the Inhibitory Action of Plant Components on the Growth of Bacteria
+IV. An Experimental Study on Bacterial Growth Inhibitory Action of Components of Green Tea Leaves and Common Ginger Root. 18(5), 209-212. [https://doi.org/10.3412/jsb.18.209](https://doi.org/10.3412/jsb.18.209)
 
 ### Pau D'Arco Inner Bark Extract, 100 mg
 
-[PubMed search results]()
+[PubMed search results](https://pubmed.ncbi.nlm.nih.gov/?term=+Pau+d%E2%80%99Arco+candida&sort=date)
+
+Pau D'Arco (Tabebuia avellanedae, pink trumpet tree) appears to be anti-*Candida* when extracted with methanol.
+- Höfling, J. F., Anibal, P. C., Obando-Pereda, G. A., Peixoto, I. A., Furletti, V. F., Foglio, M. A., & Gonçalves, R. B. (2010). Antimicrobial potential of some plant extracts against Candida species. Brazilian journal of biology = Revista brasleira de biologia, 70(4), 1065–1068. [https://doi.org/10.1590/S1519-69842010000500022](https://doi.org/10.1590/S1519-69842010000500022)
 
 ### Rosemary Leaf Extract, 100 mg
 
-[PubMed search results]()
+[PubMed search results](https://pubmed.ncbi.nlm.nih.gov/?term=Rosemary+candida&sort=date)
 
+Does some good things for the blood vessels of rats.
+- Afonso, M. S., de O Silva, A. M., Carvalho, E. B., Rivelli, D. P., Barros, S. B., Rogero, M. M., Lottenberg, A. M., Torres, R. P., & Mancini-Filho, J. (2013). Phenolic compounds from Rosemary (Rosmarinus officinalis L.) attenuate oxidative stress and reduce blood cholesterol concentrations in diet-induced hypercholesterolemic rats. Nutrition & metabolism, 10(1), 19. https://doi.org/10.1186/1743-7075-10-19
+
+"Our data indicate that rosemary extract has the potential to counteract the palmitate-induced muscle cell insulin resistance."
+- Vlavcheski, F., & Tsiani, E. (2018). Attenuation of Free Fatty Acid-Induced Muscle Insulin Resistance by Rosemary Extract. Nutrients, 10(11), 1623. [https://doi.org/10.3390/nu10111623](https://doi.org/10.3390/nu10111623)
