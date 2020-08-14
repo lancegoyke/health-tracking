@@ -15,7 +15,7 @@ metaDescription: "Overview of the ingredients in Candicid Forte by Ortho Molecul
 
 ## Ingredients
 
-![Nutrition label for Candicid Forte by Ortho Molecular Products](../assets/images/candicid-forte-label.png "Nutrition label for Candicid Forte by Ortho Molecular Products")
+![Nutrition label for Candicid Forte by Ortho Molecular Products](candicid-forte-by-ortho-molecular-products-label.png "Nutrition label for Candicid Forte by Ortho Molecular Products")
 
 Ortho Molecular Products has released [an info sheet for Candicid Forte](candicid-forte-info-sheet.pdf), outlining why they chose each ingredient.
 
