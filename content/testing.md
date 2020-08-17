@@ -7,7 +7,6 @@ metaDescription: 'Notes on Simren & Stotzer, 2006'
 ## Use and abuse of hydrogen breath tests
 
 This post is a review of [a research article from 2006 by M Simren and P-O Stotzer.](https://sci-hub.tw/http://dx.doi.org/10.1136/gut.2005.075127)
-This post is a review of a research article from 2006 by M Simren and P-O Stotzer.
 
 ## Basics of testing
 
