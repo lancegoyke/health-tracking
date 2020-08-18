@@ -1,6 +1,6 @@
 ---
-title: 'Small Intestinal Bacterial Overgrowth (SIBO) Malabsorption and Testing'
-metaTitle: 'Small Intestinal Bacterial Overgrowth (SIBO) Malabsorption and Testing'
+title: 'SIBO Malabsorption and Testing'
+metaTitle: 'SIBO Malabsorption and Testing'
 metaDescription: 'Notes on Simren & Stotzer, 2006'
 ---
 
@@ -60,4 +60,34 @@ Prevalence is also similar in patients with IBS to normal populations.
 
 ## Small Intestinal Bacterial Overgrowth
 
-_To be continued..._
+SIBO is characterized by > 10^5 colonic-type bacteria present in the small intestine. See my other post to [learn more about SIBO.](/sibo)
+
+### Tests for SIBO
+
+1. Small intestinal culturing of jejunal aspirate
+2. Breath tests
+
+#### Small intestinal culturing of jejunal aspirate
+
+The jejunum is about as far away as you could get. Grabbing some intestinal fluid might not be representative of the jejunum as a whole, plus it's easily contaminated by things like the oral flora.
+
+#### Breath tests
+
+The original test was a bile acid breath test, attempting to quantify the number of bacteria present that could deconjugate bile acids. This test is no longer used.
+
+The 1g ^14C-D-xylose breath test uses one gram of ^14C labelled xylose. After absorption, minimal xylose is metabolized and most of it gets secreted through the kidneys. If bacteria are in the small bowel, more of this xylose gets metabolized into 14CO2, which is absorbed and exhaled.
+
+Hydrogen breath tests, using a solution of glucose (50-75 grams) or lactulose (10 grams), are the most commonly used tests for SIBO today. Hydrogen gas expired is measured every 15-30 minutes for three hours.
+
+![Example graph of hydrogen breath test results](example_breath_test_results.png 'Example graph of hydrogen breath test results')
+
+This figure is from Simren & Stotzer, 2006.
+
+Glucose hardly ever makes it to the large intestine barring any severe transit abnormalities. Results are positive with any clearly recognizable hydrogen peak exceeding 10-20 ppm. High fasting hydrogen concentrations may mean SIBO, but they most likely mean the patient did not follow instructions of low fiber diet prior to testing.
+
+Lactulose is not absorbed until reaching the colon or colonic bacteria. Since unaffected by the small intestine, it can also be used to measure orocecal transit time. Ideal positive results show two hydrogen gas peaks above 20 ppm: the first representing colonic bacteria in the small intestine, and the second representing passage through the large intestine. It has been shown, however, that two peaks can represent the same ingestion of testing solution. This explains the low sensitivity and specificity for the lactulose test.
+
+| Type of Breath Test | Sensitivity | Specificity |
+| ------------------- | ----------- | ----------- |
+| Lactulose hydrogen  | 68%         | 44%         |
+| Glucose hydrogen    | 62%         | 83%         |

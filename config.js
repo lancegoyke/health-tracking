@@ -27,6 +27,7 @@ const config = {
       // '/introduction', // add trailing slash if enabled above
       // '/codeblock',
       '/my-case',
+      '/sibo',
       '/lps',
       '/diary',
       '/herbal-antimicrobials',
