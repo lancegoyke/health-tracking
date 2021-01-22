@@ -4,13 +4,13 @@ metaTitle: "Amy Nett Intake"
 metaDescription: "A summary of my first appointment with Amy Nett, MD."
 ---
 
-# Healthy Habits
+## Healthy Habits
 
 I've had some recent success with Sam Harris's Waking Up meditation app. Dr. Nett highly recommended turning this into a daily habit. I had been thinking about giving it a real shot for a few weeks now, so I'm going to commit to daily at least for the month.
 
 "Mindfulness can lower markers of inflammation, improve cognitive health and mood and may help lessen some of your muscle tension. Some meditation teachers and researchers feel that the most benefit comes from consistency, even over duration."
 
-# High Iron
+## High Iron
 
 In July 2020 blood tests, my ferritin came back at 550 ng/mL (ref range 38-380 ng/mL). Very high.
 
@@ -26,7 +26,7 @@ Alternative strategies:
 
 - Eat less red meat
 
-# Skin
+## Skin
 
 Skin is one of my primary concerns (accompanied by gut symptoms and cognition). I have eczema in tons of places, especially around my joints. Last night, I woke up to my right middle finger itching. The worst part is the pruritis, or urge to itch, not the skin's composition.
 
@@ -35,11 +35,11 @@ Dr. Nett recommended The Eczema Company for some natural supplements that may re
 - EczeHerbal #2 - Itchy Skin Rash Treatment
 - Organic Manuka Skin Soothing Cream
 
-# Supplements
+## Supplements
 
 These were ordered through Fullscript.
 
-## Quercetin
+### Quercetin
 
 Quercetin Plus from Natura Health Products ($33.29 for 90 capsules)
 
@@ -55,7 +55,7 @@ Quercetin Plus from Natura Health Products ($33.29 for 90 capsules)
 
 Worth noting: vitamin C increases uptake of iron, of which I have too much.
 
-## Fish Oil
+### Fish Oil
 
 Integrative Therapeutics Pure Omega Ultra HP ($57.60 for 90 softgels)
 
@@ -69,7 +69,7 @@ Integrative Therapeutics Pure Omega Ultra HP ($57.60 for 90 softgels)
 
 If this doesn't help, we'll try something more potent: SPM Active.
 
-## Magnesium (Glycinate/Malate)
+### Magnesium (Glycinate/Malate)
 
 Vital Nutrients Magnesium Glycinate/Malate 120mg ($19.26 for 100 capsules)
 
@@ -79,7 +79,7 @@ Vital Nutrients Magnesium Glycinate/Malate 120mg ($19.26 for 100 capsules)
 - Serving size: 2 capsules
   - Magnesium: 240 mg (50% as magnesium glycinate, 50% as dimagnesium malate)
 
-## Cognitive Nootropic
+### Cognitive Nootropic
 
 Integrative Therapeutics Neurologix ($71.55 for 120 capsules)
 
@@ -99,7 +99,7 @@ Future option: Synapsin
 
 "It is designed to be used for the support of neurological and cognitive health. Laboratory studies report that Rg3 extracted from Panax ginseng helps to support healthy neuronal function. Nicotinamide riboside has been shown to have neuroprotective activity and to support neuronal NAD+ synthesis. Overall I have found this very helpful in settings of suspected neuroinflammation."
 
-## Calcium
+### Calcium
 
 Metagenics Bone Builder ($44.55 for 270 tablets, backordered)
 
@@ -111,22 +111,22 @@ Metagenics Bone Builder ($44.55 for 270 tablets, backordered)
 
 Another MCHC supplement will work if I can't get my hands on this one.
 
-# Testing
+## Testing
 
 These were ordered through Rupa Health.
 
-## Comprehensive Blood Panel
+### Comprehensive Blood Panel
 
 - Overnight fast for 12 hours prior
 - Only drink water before the draw
 - Drink at least 16 oz of water prior to the draw
 - Don't exercise before the draw
 
-## Stool Test
+### Stool Test
 
 GI360 Three Day Stool Analysis to better understand GI microbiome and overall colon health.
 
-## Repeat SIBO Breath Test (optional)
+### Repeat SIBO Breath Test (optional)
 
 To see if SIBO persists.
 
@@ -134,15 +134,15 @@ Alternative: assume SIBO persists and treat what we find on the stool test.
 
 If stool test is negative, then it will be important to repeat SIBO breath test.
 
-## Hormones
+### Hormones
 
 DUTCH (Dried Urine Test for Complete Hormones) to assess both sex and adrenal hormones.
 
 Collect samples after at least four weeks with no hydrocortisone. This is one of reasons for trying the natural anti-eczema creams above.
 
-# Summary
+## Summary
 
-## Supplements
+### Supplements
 
 - Quercetin Plus (NTH)- Take up to 3 capsules three times daily as needed for allergy symptoms. Best taken on an empty stomach.
 - Pure Omega Ultra HP Softgels (ITI)- Take two to three softgels with dinner.

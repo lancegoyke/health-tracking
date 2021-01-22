@@ -4,7 +4,7 @@ metaTitle: "Herbal Antimicrobial Protocol"
 metaDescription: "The supplements I'll be taking to treat small intestinal bacterial overgrowth (SIBO)"
 ---
 
-# Herbal Antimicrobial Protocol
+## Herbal Antimicrobial Protocol
 
 Here's the broad-spectrum herbal anti-microbial protocol recommended to me by Dr. Bryan Walsh.
 
